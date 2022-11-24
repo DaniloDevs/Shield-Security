@@ -51,8 +51,7 @@
 }
 
 .Trigger:focus {
-  color: #339989;
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .ContentTabs {
